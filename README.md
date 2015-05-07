@@ -6,7 +6,7 @@ Demo for a CSS-only ADC 2.0 proposal for multiple questions.
 Preview
 -------
 
-!(Preview of Granite checkboxes)[https://raw.githubusercontent.com/AskiaADX/demo-GraniteCheckboxes/master/GraniteChecbox-demo.gif]
+!(Preview of Granite checkboxes)[https://dl.dropboxusercontent.com/u/4885226/GraniteChecbox-demo.gif]
 
 Possible variables to be open to the end-users
 ----------------------------------------------
